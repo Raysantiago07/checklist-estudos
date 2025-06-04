@@ -37,11 +37,11 @@ export default function Checklist() {
           <option value="Química">Química</option>
           <option value="Física">Física</option>
           <option value="Biologia">Biologia</option>
-          <option value="Biologia">História</option>
-          <option value="Biologia">Geografia</option>
-          <option value="Biologia">Filosofia</option>
-          <option value="Biologia">Sociologia</option>
-          <option value="Biologia">Linguagens em Geral</option>
+          <option value="História">História</option>
+          <option value="Geografia">Geografia</option>
+          <option value="Filosofia">Filosofia</option>
+          <option value="Sociologia">Sociologia</option>
+          <option value="Linguagens em Geral">Linguagens em Geral</option>
           
         </select>  
 
