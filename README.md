@@ -1,12 +1,29 @@
-# React + Vite
+# CHECKLIST DE ESTUDO
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto visa auxiliar estudantes a organizarem suas rotinas de estudo de forma eficiente, garantindo que todos os tópicos sejam abordados e revisados adequadamente.O Checklist de Estudo é uma ferramenta que permite criar e gerenciar listas de tarefas relacionadas aos estudos, ajudando a manter o foco e a disciplina.
 
-Currently, two official plugins are available:
+●Motivação: A ideia surgiu da necessidade de ter um controle mais rígido sobre os estudos, evitando esquecimentos e procrastinação.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+●Desafios: Implementar uma interface intuitiva e repassar uma melhor experiência aos usuários.
 
-## Expanding the ESLint configuration
+●Aprendizado: Aprendi sobre gestão de tempo, técnicas de produtividade e como utilizar ferramentas de desenvolvimento para criar soluções práticas.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+#  Funcionalidades
+●Criação e edição de checklists personalizados.
+
+●Matérias para escolha.
+
+●Marcação de disciplinas com nível de relevância.
+
+●Caixa de texto para digitar e colocar a tarefa da área escolhida.
+
+# Passo a passo para uso:
+●Escolha a disciplina.
+
+●Digite a tarefa.
+
+●Selecione o nível de relevância.
+
+●Clique em adicionar para adicionar ao checklist.
+
